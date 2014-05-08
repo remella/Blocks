@@ -101,6 +101,9 @@
 
 }
 
+-(void)adding{
+    NSLog(@"hai done");
+}
 
 
 - (void)driveForDuration:(double)duration
